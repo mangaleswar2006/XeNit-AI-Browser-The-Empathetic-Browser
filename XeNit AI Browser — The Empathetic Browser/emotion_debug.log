@@ -1,0 +1,217 @@
+INTERCEPTED: XENIT_EMOTION: i am a
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High)
+INTERCEPTED: XENIT_EMOTION: i am happy
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.64, source=both)
+UI TRIGGER: positive (Low)
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High)
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High)
+INTERCEPTED: XENIT_EMOTION: i am happy
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.64, source=both)
+UI TRIGGER: positive (Low)
+INTERCEPTED: XENIT_EMOTION: i am fustrated
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High)
+INTERCEPTED: XENIT_EMOTION: i am excited
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.52, source=both)
+UI TRIGGER: positive (Low)
+INTERCEPTED: XENIT_EMOTION: i am frus
+INTERCEPTED: XENIT_EMOTION: i am frustrar
+INTERCEPTED: XENIT_EMOTION: i am frustrated
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High)
+INTERCEPTED: XENIT_EMOTION: why are you not talking with me
+INTERCEPTED: XENIT_EMOTION: why are you ignoring
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.24, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: why are you ignoring
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.24, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: why you ignoring
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.24, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i am 
+INTERCEPTED: XENIT_EMOTION: why are you ignoring
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.24, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: why are you ignoring
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.24, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: you are stupid
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.32, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: stop the shit
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.42, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: you are stupid
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['stupid']
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: you are stupid
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['stupid']
+INTERCEPTED: XENIT_EMOTION: i hate the job
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.34, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: i am sad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.59, source=both)
+UI TRIGGER: distress (Low) - ['sad']
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: i am leaving the 
+INTERCEPTED: XENIT_EMOTION: i am leaving the job
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: you 
+INTERCEPTED: XENIT_EMOTION: you are pathatic and worstless
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: you are wo
+INTERCEPTED: XENIT_EMOTION: you are worthless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['worthless']
+INTERCEPTED: XENIT_EMOTION: i am sorry
+INTERCEPTED: XENIT_EMOTION: i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: i am sorry
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+INTERCEPTED: XENIT_EMOTION: you are bad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.33, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i donnot like this
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.22, source=vader)
+UI TRIGGER: positive (Low) - []
+INTERCEPTED: XENIT_EMOTION: you are bad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.33, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: how are you
+INTERCEPTED: XENIT_EMOTION: i donnot like this
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.22, source=vader)
+UI TRIGGER: positive (Low) - []
+INTERCEPTED: XENIT_EMOTION: i hate you
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['hate you']
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: distress (Low) - ['sad']
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: you a
+INTERCEPTED: XENIT_EMOTION: you are bad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.33, source=vader)
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: i am feeling sad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.54, source=both)
+UI TRIGGER: distress (Low) - ['sad']
+UI TRIGGER: neutral (Low) - []
+INTERCEPTED: XENIT_EMOTION: i am feeling bad
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.28, source=vader)
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: positive (Low) - ['good']
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: anger (High) - ['anger']
+UI TRIGGER: positive (Low) - []
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: neutral (Low) - []
+UI TRIGGER: distress (Low) - []
+UI TRIGGER: neutral (Low) - []
+INTERCEPTED: XENIT_EMOTION: you are la
+INTERCEPTED: XENIT_EMOTION: you are late
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: you 
+INTERCEPTED: XENIT_EMOTION: you never
+INTERCEPTED: XENIT_EMOTION: you never call me
+INTERCEPTED: XENIT_EMOTION: you never call me
+INTERCEPTED: XENIT_EMOTION: you never call me i am angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: have a gret
+INTERCEPTED: XENIT_EMOTION: have a great day
+EMITTING SIGNAL: Emotion(mood=positive, confidence=0.66, source=both)
+UI TRIGGER: positive (Low) - ['great']
+INTERCEPTED: XENIT_EMOTION: you are a bad guy
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.33, source=vader)
+UI TRIGGER: distress (Low) - []
+INTERCEPTED: XENIT_EMOTION: you are angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: are you angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: you are useless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['useless']
+INTERCEPTED: XENIT_EMOTION: you are useless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['useless']
+INTERCEPTED: XENIT_EMOTION: you are useless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['useless']
+INTERCEPTED: XENIT_EMOTION: you are useless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['useless']
+INTERCEPTED: XENIT_EMOTION: you are worthless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['worthless']
+INTERCEPTED: XENIT_EMOTION: you are worthless
+EMITTING SIGNAL: Emotion(mood=anger, confidence=0.95, source=keyword)
+UI TRIGGER: anger (Medium) - ['worthless']
+INTERCEPTED: XENIT_EMOTION: i am 
+INTERCEPTED: XENIT_EMOTION: i am lonely
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.53, source=both)
+UI TRIGGER: distress (Low) - ['lonely']
+INTERCEPTED: XENIT_EMOTION: i am fustrated
+INTERCEPTED: XENIT_EMOTION: donnot make me angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: donnot make me angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']
+INTERCEPTED: XENIT_EMOTION: donnot make me angry
+EMITTING SIGNAL: Emotion(mood=distress, confidence=0.61, source=both)
+UI TRIGGER: distress (High) - ['angry']

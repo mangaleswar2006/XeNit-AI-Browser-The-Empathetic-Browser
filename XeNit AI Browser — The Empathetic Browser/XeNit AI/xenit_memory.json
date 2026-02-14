@@ -1,0 +1,96 @@
+{
+    "preferences": {
+        "theme": "dark",
+        "auto_summarize": false
+    },
+    "contacts": {
+        "lucky": "919938131157",
+        "aryan": "919136043304",
+        "opal": "919330036373"
+    },
+    "history_stats": {},
+    "context_log": [],
+    "user_facts": [],
+    "user_profile": {
+        "First Name": "Lucky",
+        "Last Name": "Nath",
+        "Email": "lucky121232@gmail.com",
+        "Phone Number": "9938121345",
+        "Country": "India",
+        "Date of Birth": "26/12/2004"
+    },
+    "smart_history": [
+        {
+            "timestamp": "2026-01-31 22:28:56",
+            "url": "https://www.google.com/search?q=best leptop under 1lakh",
+            "title": "XeNit"
+        },
+        {
+            "timestamp": "2026-01-31 22:28:57",
+            "url": "https://www.google.com/search?q=best leptop under 1lakh&sei=0TR-aYGdCISYseMPnYmEmAo",
+            "title": "google.com/search?q=best leptop under 1lakh&sei=0TR-aYGdCISYseMPnYmEmAo"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:06",
+            "url": "https://gadgetsnow.indiatimes.com/laptops/filters/price/90001-to-100000-laptops-in-india",
+            "title": "gadgetsnow.indiatimes.com/laptops/filters/price/90001-to-100000-laptops-in-india"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:12",
+            "url": "https://gadgetsnow.indiatimes.com/laptops/lenovo-thinkbook-14-14-inches-g725068",
+            "title": "gadgetsnow.indiatimes.com/laptops/lenovo-thinkbook-14-14-inches-g725068"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:43",
+            "url": "https://gadgetsnow.indiatimes.com/laptops/filters/price/90001-to-100000-laptops-in-india",
+            "title": "Laptops under 1 Lakh (100000 ) Online in India \u2013 Gadgets Now"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:47",
+            "url": "https://www.google.com/search?q=best leptop under 1lakh&sei=0TR-aYGdCISYseMPnYmEmAo",
+            "title": "best leptop under 1lakh - Google Search"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:52",
+            "url": "https://www.google.com/search?q=best leptop under 1lakh&sei=0TR-aYGdCISYseMPnYmEmAo#sv=CAYS3wESABosMmFoVUtFd2pRcE1XTG9MYVNBeFhTVG13R0hlLTRPZEVRZ2kxNkJBaHhFQlEifAoUMTM3MTA0OTU2NjU0OTU0Nzk2MTQSFDE3OTA2MjkyNjA2ODM0MzQ4NTY5IhMyOTY5MTgzODA1NjI3OTUyMzM4MhM1MjQwMDA3OTgzMDEwMDQ0MjYxSgJoZ1IAoAED8AEA-gEBMYICEzIzMDg3Njg4MTY4MDQ3MzI5MzUwAEItMmFoVUtFd2pRcE1XTG9MYVNBeFhTVG13R0hlLTRPZEVRcm9nR2VnUUljUkFLIOrV8u0CMAJKCggBEAIYASABKAE",
+            "title": "best leptop under 1lakh - Google Search"
+        },
+        {
+            "timestamp": "2026-01-31 22:29:58",
+            "url": "https://www.flipkart.com/hp-15-2025-amd-ryzen-3-quad-core-7320u-8-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itm4d7551a2d065b?pid=COMHDPMSUGB8NUNP&lid=LSTCOMHDPMSUGB8NUNPBRNVIU&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+            "title": "flipkart.com/hp-15-2025-amd-ryzen-3-quad-core-7320u-8-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itm4d7551a2d065b?pid=COMHDPMSUGB8NUNP&lid=LSTCOMHDPMSUGB8NUNPBRNVIU&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc"
+        }
+    ],
+    "daily_logs": [
+        {
+            "timestamp": "2026-02-14T15:59:29.786900",
+            "type": "visit",
+            "content": "web.whatsapp.com (web.whatsapp.com)"
+        },
+        {
+            "timestamp": "2026-02-14T16:00:19.263874",
+            "type": "visit",
+            "content": "youtube.com (www.youtube.com)"
+        },
+        {
+            "timestamp": "2026-02-14T16:00:33.856974",
+            "type": "visit",
+            "content": "YouTube (www.youtube.com)"
+        },
+        {
+            "timestamp": "2026-02-14T16:01:02.466718",
+            "type": "visit",
+            "content": "My Corporate Job | Aakash Gupta | Stand-up comedy - YouTube (www.youtube.com)"
+        },
+        {
+            "timestamp": "2026-02-14T16:01:13.125152",
+            "type": "visit",
+            "content": "youtube.com (www.youtube.com)"
+        },
+        {
+            "timestamp": "2026-02-14T16:01:18.112075",
+            "type": "visit",
+            "content": "YouTube (www.youtube.com)"
+        }
+    ]
+}

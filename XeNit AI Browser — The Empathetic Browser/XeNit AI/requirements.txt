@@ -1,0 +1,8 @@
+PyQt6
+PyQt6-WebEngine
+openai
+SpeechRecognition
+pyttsx3
+pyaudio
+pypiwin32
+vaderSentiment
